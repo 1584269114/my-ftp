@@ -1,0 +1,29 @@
+#MB{
+    width:70%;
+    height:80%;
+    background-color: aquamarine;
+    position: fixed;
+    left: 10%;
+    top: 10%;
+}
+#z{
+ width: 50%;
+ height: 80%;
+  position:relative;
+  left:25%;
+  top: 10%;
+  background-color: brown;
+}
+#button{
+    position: relative;
+    width: 10%;
+    height: 8%;
+    left: 35%;
+    top: 10%;
+}
+
+input{
+    width: 70%;
+    height: 5%;
+    margin-top: 2%;
+}
