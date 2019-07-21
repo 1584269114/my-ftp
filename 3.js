@@ -7,5 +7,6 @@ function 点击(){
     var 邮箱=document.getElementById("Emale");
     var 电话=document.getElementById("plone");
     var 识别码=document.getElementById("code");
+    alert(账户.value);
     
 } 
