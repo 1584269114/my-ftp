@@ -21,13 +21,13 @@ size: 100%;
 
 }
 #mgtxt{
-    width: 90%;
+    width: 93%;
     height: 20%;
     max-height: 250px;
     max-width: 1000px;
     position: absolute;
-    left: 10%;
-    top: 20%;
+    left: 8%;
+    top: 30%;
 }
 #DH{
     position: relative;
