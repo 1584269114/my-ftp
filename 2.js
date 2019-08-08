@@ -3,7 +3,7 @@ var text=document.getElementById("txt");
 m.autoplay = true;//控制播放器在浏览器准备就绪的时候立即开始播放
 var lyr=new Array(20);
 var time=new Array(20);
-alert("把屏幕横过来！用浏览器播放");
+
 setInterval(function(){
     var size= (m.currentTime).toFixed(1);
     for(var i=0;i<20;i++){
