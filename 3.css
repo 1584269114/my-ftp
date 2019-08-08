@@ -16,17 +16,18 @@
 #txt{
 position: absolute;
 top: 80%;
-left: 30%;
+left: 20%;
 size: 100%;
 
 }
 #mgtxt{
-    width: 80%;
-    height: 40%;
+    width: 90%;
+    height: 20%;
     max-height: 250px;
     max-width: 1000px;
     position: absolute;
-    left: 15%;
+    left: 10%;
+    top: 20%;
 }
 #DH{
     position: relative;
@@ -45,20 +46,20 @@ size: 100%;
     0%  {
         background:url(6.jpg) no-repeat 0px 0px;
          left: 30%;
-         top: 0%;
+         top: 20%;
          background-size: 100%;
          
         }
     25% {
             background:url(6.jpg) no-repeat 0px 0px;
-            left: 45%;
-            top: 10%;
+            left: 50%;
+            top: 30%;
              background-size: 100%;
              
             }
     50% {
                 background:url(6.jpg) no-repeat 0px 0px;
-                top: 25%;
+                top: 40%;
                  background-size: 100%;
                  
                 }
@@ -66,14 +67,14 @@ size: 100%;
     75% {
                     background:url(6.jpg) no-repeat 0px 0px;
                     left: 15%;
-                    top: 10%;
+                    top: 30%;
                      background-size: 100%;
                      
                     }
     100%{
         background:url(6.jpg) no-repeat 0px 0px;
         left: 30%;
-        top:0%;
+        top:20%;
         background-size: 100%;
         }
     
@@ -81,8 +82,8 @@ size: 100%;
  /*动画*/
  #img2{
      position: fixed;
-    width: 40%;
-    left: 30%;
+    width: 50%;
+    left: 40%;
     
     animation: myfirst ;/*绑定动画为myfirst*/
     -webkit-animation: myfirst 5s;/*动画持续时间*/

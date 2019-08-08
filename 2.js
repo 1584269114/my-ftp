@@ -17,7 +17,7 @@ setInterval(function(){
 
 function wz(t){
     text.innerHTML=(t);
-    text.style.color='red';
+    text.style.color='#00FFFF';
 }
 
 lyr[0]="你是信的开头诗的内容　童话的结尾";
